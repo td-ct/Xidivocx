@@ -1,0 +1,5 @@
+/Xividocx-Data
+/*.log
+/*.json
+!checkpoints
+/checkpoints/*
