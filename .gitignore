@@ -5,3 +5,8 @@
 /checkpoints/*
 !output
 /output/*
+!logs
+/logs/*
+!initial_models
+/initial_models/*
+
